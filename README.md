@@ -1,1 +1,1 @@
-# C47
+# FlappyBird self-designed
